@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\egils\source\repos\Project5\Project5\Source.cpp(125,62): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+C:\Users\egils\source\repos\Project5\Project5\Source.cpp(125,62): warning C4244:         with
+C:\Users\egils\source\repos\Project5\Project5\Source.cpp(125,62): warning C4244:         [
+C:\Users\egils\source\repos\Project5\Project5\Source.cpp(125,62): warning C4244:             _Tp=int
+C:\Users\egils\source\repos\Project5\Project5\Source.cpp(125,62): warning C4244:         ]
+C:\Users\egils\source\repos\Project5\Project5\Source.cpp(170,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Project5.vcxproj -> C:\Users\egils\source\repos\Project5\x64\Debug\Project5.exe
